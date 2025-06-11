@@ -2,7 +2,7 @@
 
 📍 **Location:** Tulua, Colombia  
 💼 **Role:** Software Developer | Embedded Software Developer | Data Analyst | Media Buyer Anlisty
-
+💼 Freelance Services: https://es.fiverr.com/masteralgorithm
 ---
 
 ## 🌱 Currently Learning
