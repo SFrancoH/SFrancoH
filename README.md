@@ -1,8 +1,7 @@
 # 👋 Hey, I'm Sebastian Franco (SFrancoH) 👨‍💻
 
-📍 **Location:** Tulua, Colombia  
-💼 **Role:** Software Developer | Embedded Software Developer | Data Analyst | Media Buyer Anlisty
-💼 Freelance Services: https://es.fiverr.com/masteralgorithm
+- **Role:** Software Developer | Embedded Software Developer | Data Analyst | Media Buyer Analyst
+- **Freelance Services:** https://es.fiverr.com/masteralgorithm
 ---
 
 ## 🌱 Currently Learning
